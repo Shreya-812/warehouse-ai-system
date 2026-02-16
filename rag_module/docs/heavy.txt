@@ -1,0 +1,1 @@
+Heavy packages require maximum gripping strength. The robot must verify weight before lifting. Items exceeding load capacity should not be moved.

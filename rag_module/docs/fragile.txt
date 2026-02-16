@@ -1,0 +1,1 @@
+Fragile items must be handled with care. The robot should use low gripping force and slow movement. Sudden acceleration must be avoided. Fragile packages should be placed in padded zones.

@@ -1,0 +1,1 @@
+Battery levels must remain above 20 percent. Charging cycles should be monitored. Overheating must be avoided.

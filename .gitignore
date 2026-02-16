@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+ml_module/data/
+*.tar.gz
+*.mkv
+*.mp4
+*.pth
+*.pt
